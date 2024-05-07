@@ -88,3 +88,9 @@ footer p a{
     color: #fff;
 }
 
+@media screen and (max-width: 960px) {
+    body .container h1 {
+      font-size: 2.5rem;
+    }
+  }
+
